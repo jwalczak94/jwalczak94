@@ -1,9 +1,9 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="200"/>
-  <h1 align="center">hey there</h1>
 </div>
 
+<!-- 
 ### :superhero_woman: About Me :
 
 
@@ -21,7 +21,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
-
+-->
 ---
 
 
